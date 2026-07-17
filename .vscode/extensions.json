@@ -1,0 +1,13 @@
+{
+	"recommendations": [
+		"eamodio.gitlens",
+		"ms-azuretools.vscode-docker",
+		"ms-python.python",
+		"ms-toolsai.datawrangler",
+		"ms-toolsai.jupyter",
+		"ms-toolsai.jupyter-renderers",
+		"njpwerner.autodocstring",
+		"openai.chatgpt",
+		"PKief.material-icon-theme"
+	],
+}
